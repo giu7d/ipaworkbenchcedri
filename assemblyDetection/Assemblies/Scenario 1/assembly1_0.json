@@ -1,0 +1,14 @@
+{
+	"layer":4,
+	"assembly":{
+		"0": {
+			"master":true,
+			"color":"G",
+			"orientation":0,
+			"master_ref":0,
+			"piece_ref":1,
+			"distance":15,
+			"movement":-1
+		}
+	}
+}
